@@ -1,0 +1,92 @@
+body {
+	background-color: rgb(250, 108, 136);
+}
+
+h1 {
+	color:blueviolet;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: larger;
+	text-align: center;
+}
+
+h3 {
+	color: brown;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: small;
+	text-transform: unset;
+}
+
+h5 {
+	color: crimson;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: smaller;
+	font-weight: lighter;
+}
+
+.receta {
+	color: burlywood;
+	font-weight: bold;
+}
+
+ul {
+	background-color: darkgreen;
+	border-color: darkturquoise;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: oblique;
+	text-align: left;
+}
+
+p {
+	font-size: 13px;
+	font-smooth: initial;
+	letter-spacing: 1px;
+	margin: 20px;
+	max-width: 500px;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+}
+
+form {
+	background-color: darkolivegreen;
+}
+
+.nombre {
+	color: #c52525;
+	font-size: medium;
+	text-decoration: underline;
+}
+
+.apellido {
+	color: #c52525;
+	font-size: medium;
+	text-decoration: underline;
+}
+
+.email {
+	color: #c52525;
+	font-size: medium;
+	text-decoration: underline;
+}
+
+.pedidos {
+	color: #420548;
+	font-size: large;
+	text-decoration: wavy;
+}
+
+.body-pagina {
+	background-color: rgb(78, 57, 213);
+}
+
+.volver-al-inicio {
+	color: rgb(137, 246, 29);
+	font-weight: bold;
+}
+
+.ir-a-menu {
+	color: rgb(79, 19, 182);
+	font-weight: bold;
+}
